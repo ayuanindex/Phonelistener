@@ -8,7 +8,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        System.out.printf("你你好");
+        System.out.printf("你好java");
     }
 }
